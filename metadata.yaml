@@ -1,0 +1,30 @@
+_repo: Two-Trips-to-Gorilla-Land-and-the-Cataracts-of-the-Congo-Volume-2_5761
+creator:
+  author:
+    agent_name: Burton, Richard Francis, Sir
+    aliases:
+    - Burton, Sir Richard Francis
+    - Burton, R. F. (Richard F.), Sir
+    - Baker, Frank
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '898'
+    url: http://www.gutenberg.org/2009/agents/898
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Burton
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Congo River -- Description and travel'
+- !lcsh 'Ethnology -- Africa, West'
+- !lcsh 'Africa, West -- Description and travel'
+title: Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2
+url: http://www.gutenberg.org/ebooks/5761
