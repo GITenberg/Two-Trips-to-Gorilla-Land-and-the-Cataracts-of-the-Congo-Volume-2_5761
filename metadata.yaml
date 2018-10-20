@@ -1,5 +1,5 @@
 _repo: Two-Trips-to-Gorilla-Land-and-the-Cataracts-of-the-Congo-Volume-2_5761
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Congo River -- Description and travel'
 - !lcsh 'Ethnology -- Africa, West'
 - !lcsh 'Africa, West -- Description and travel'
+- GITenberg
 title: Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2
 url: http://www.gutenberg.org/ebooks/5761
